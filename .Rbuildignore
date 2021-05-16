@@ -5,3 +5,8 @@ Parse_AFNI_ReadME.R
 txts/*
 ^appveyor\.yml$
 ^\.travis\.yml$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
